@@ -21,7 +21,7 @@ W3 HowTo 의 내용과 비슷하게 구성하려고 합니다 🤣
 
 04 DropDown : [Preview](https://youtu.be/KfQExzHZXXc) / Code...
 
-<img width="20%" src="https://github.com/doyle-flutter/flutterHowTo/tree/main/05SideNavigation" />
+<img width="20%" src="https://user-images.githubusercontent.com/56661529/123775163-15497200-d909-11eb-8644-8148fe4df778.png" />
 
 05 Side Navigation : [Preview](https://youtu.be/-KUWFcP2Q4w) / [Code](https://github.com/doyle-flutter/flutterHowTo/tree/main/05SideNavigation)
 
