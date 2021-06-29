@@ -25,5 +25,9 @@ W3 HowTo 의 내용과 비슷하게 구성하려고 합니다 🤣
 
 05 Side Navigation : [Preview](https://youtu.be/-KUWFcP2Q4w) / [Code](https://github.com/doyle-flutter/flutterHowTo/tree/main/05SideNavigation)
 
+<img width="20%" src="https://user-images.githubusercontent.com/56661529/123780592-5001d900-d90e-11eb-9197-152f90935bc4.png" />
+
+06 Modal&Bottom : [Preview](https://youtu.be/e34IKRaofZ4) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/06Modal%26Bottom/main.dart)
+
 <br />
 ...
