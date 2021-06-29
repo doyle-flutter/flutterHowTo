@@ -29,5 +29,9 @@ W3 HowTo 의 내용과 비슷하게 구성하려고 합니다 🤣
 
 06 Modal&Bottom : [Preview](https://youtu.be/e34IKRaofZ4) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/06Modal%26Bottom/main.dart)
 
+<img width="20%" src="https://user-images.githubusercontent.com/56661529/123799420-2bfcc280-d923-11eb-8aaa-39c8f32bf568.png" />
+
+07 Modal Image : [Preview](https://youtu.be/iTvnc57w_jI) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/07ImageModal/main.dart)
+
 <br />
 ...
