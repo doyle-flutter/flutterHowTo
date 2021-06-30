@@ -37,5 +37,9 @@ W3 HowTo 의 내용과 비슷하게 구성하려고 합니다 🤣
 
 08 Tabs & Pagination : [Preview](https://youtu.be/OWHEcIa8ims) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/08TabsPagination/main.dart)
 
+<img width="20%" src="https://user-images.githubusercontent.com/56661529/123930010-48a00580-d9ca-11eb-8945-a19ec885bc91.png" />
+
+09 IconBar Vertical & Horizontal : [Preview](https://youtu.be/W2lB-P2ncSQ) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/09IconBar/main.dart)
+
 <br />
 ...
