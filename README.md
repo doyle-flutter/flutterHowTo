@@ -33,5 +33,9 @@ W3 HowTo 의 내용과 비슷하게 구성하려고 합니다 🤣
 
 07 Modal Image : [Preview](https://youtu.be/iTvnc57w_jI) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/07ImageModal/main.dart)
 
+<img width="20%" src="https://user-images.githubusercontent.com/56661529/123902589-11206180-d9a8-11eb-93fe-1b11f6f757a9.png" />
+
+08 Tabs & Pagination : [Preview](https://youtu.be/OWHEcIa8ims) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/08TabsPagination/main.dart)
+
 <br />
 ...
