@@ -180,19 +180,6 @@ class _MainState extends State<Main> {
                       ),
                     ),
                   ),
-                  Container(
-                    margin: EdgeInsets.symmetric(vertical: 20.0),
-                    child: TextField(
-                      decoration: InputDecoration(
-                        fillColor: Colors.white,
-                        filled: true,
-                        border: OutlineInputBorder(borderSide: BorderSide(color: Colors.black)),
-                        labelText: "FullName",
-                        hintText: "홍길동"
-                      ),
-                    ),
-                  ),
-
                 ],
               ),
             ),
