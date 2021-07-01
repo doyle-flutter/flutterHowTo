@@ -49,5 +49,9 @@ W3 HowTo 의 내용과 비슷하게 구성하려고 합니다 🤣
 
 11 Portfolio Layout - App/Tablet & WEB : [Preview](https://youtu.be/roaTbBkZE8I) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/11portfolio/main.dart)
 
+<img width="20%" src="https://user-images.githubusercontent.com/56661529/124050103-d294b080-da54-11eb-8112-b527e1cb29ad.png" />
+
+12 ReadMore And ReadLess : [PreView](https://youtu.be/faCW0uzHX0g) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/12ReadMoreAndReadLess/main.dart)
+
 <br />
 ...
