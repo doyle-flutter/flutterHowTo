@@ -69,5 +69,9 @@ W3 HowTo 의 내용과 비슷하게 구성하려고 합니다 🤣
 
 16 Contact Form : [Preview](https://youtu.be/ELvYYAIbz5s) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/16ContactForm/main.dart)
 
+<img width="20%" src="https://user-images.githubusercontent.com/56661529/124222958-bb7dbd80-db3d-11eb-8b82-68332a1e3b93.png" />
+
+17 Animation Form : [Preview](https://youtu.be/lMYHEExqy0c) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/17AnimationForm/main.dart)
+
 <br />
 ...
