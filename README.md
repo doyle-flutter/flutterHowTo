@@ -73,5 +73,9 @@ W3 HowTo 의 내용과 비슷하게 구성하려고 합니다 🤣
 
 17 Animation Form : [Preview](https://youtu.be/lMYHEExqy0c) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/17AnimationForm/main.dart)
 
+<img width="20%" src="https://user-images.githubusercontent.com/56661529/124225047-bfabda00-db41-11eb-8be0-acd85cddb414.png" />
+
+18 CheckBox : [Preview](https://youtu.be/skY7Jhc4bkY) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/18CheckBox/main.dart)
+
 <br />
 ...
