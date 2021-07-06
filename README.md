@@ -87,5 +87,9 @@ W3 HowTo 의 내용과 비슷하게 구성하려고 합니다 🤣
 
 20 Table : [Preview](https://youtu.be/546qcDJgv8I) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/20Table/main.dart)
 
+<img width="20%" src="https://user-images.githubusercontent.com/56661529/124529434-92af3e00-de45-11eb-99ac-c0208a61ca65.png" />
+
+21 VideoPlayer : [Preview](https://youtu.be/9k2ohITs9QA) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/21VideoPlayer/main.dart)
+
 <br />
 ...
