@@ -105,7 +105,7 @@ W3 HowTo 의 내용과 비슷하게 구성하려고 합니다 🤣
 
 <img width="20%" src="https://user-images.githubusercontent.com/56661529/124767089-75c45900-df72-11eb-8c0e-e713dc7e5d96.png" />
 
-25 Flip Card : [Preview](https://youtu.be/7TDmn4Ij-3g) / [Code](https://github.com/doyle-flutter/flutterHowTo/tree/main/25FlipCard)
+25 Flip Card : [Preview](https://youtu.be/7TDmn4Ij-3g) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/25FlipCard/main.dart)
 
 <br />
 ...
