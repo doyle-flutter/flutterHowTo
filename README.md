@@ -111,5 +111,9 @@ W3 HowTo 의 내용과 비슷하게 구성하려고 합니다 🤣
 
 26 Sticky AppBar : [Preview](https://youtu.be/0olcJiCsh3A) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/26StickyAppBar/main.dart)
 
+<img width="20%" src="https://user-images.githubusercontent.com/56661529/124871967-aa322680-dfff-11eb-85fc-d2d4e9776ecf.png" />
+
+27 SnackBar & ToastBar : [Preview](https://youtu.be/PR9ElCOKQrU) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/27SnackBarToastBar/main.dart)
+
 <br />
 ...
