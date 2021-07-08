@@ -121,7 +121,7 @@ W3 HowTo 의 내용과 비슷하게 구성하려고 합니다 🤣
 
 <img width="50%" src="https://user-images.githubusercontent.com/56661529/124901157-b678ac80-e01c-11eb-9c8d-bc1ac8039140.png" />
 
-29 Typing Effect : [Preview](https://youtu.be/pOdlTERbOBw) / [Code)[https://github.com/doyle-flutter/flutterHowTo/blob/main/29TypingEffect/main.dart]
+29 Typing Effect : [Preview](https://youtu.be/pOdlTERbOBw) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/29TypingEffect/main.dart)
 
 <br />
 ...
