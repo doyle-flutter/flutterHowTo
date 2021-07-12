@@ -123,7 +123,7 @@ W3 HowTo 의 내용과 비슷하게 구성하려고 합니다 🤣
 
 29 Typing Effect : [Preview](https://youtu.be/pOdlTERbOBw) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/29TypingEffect/main.dart)
 
-### Only WEB
+## Only WEB
 
 <img width="50%" src="https://user-images.githubusercontent.com/56661529/125277933-0fae4c00-e34d-11eb-8b2c-92682196f4bf.png" />
 
