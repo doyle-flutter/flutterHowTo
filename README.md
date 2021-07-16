@@ -131,7 +131,12 @@ W3 HowTo 의 내용과 비슷하게 구성하려고 합니다 🤣
 
 30 Custom Hero Animation : [Preview](https://youtu.be/ftQ1MeJFZIU) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/30CustomHeroAnimation/main.dart)
 
+<img width="50%" src="https://user-images.githubusercontent.com/56661529/125962064-e640cfbb-9647-4428-a041-91dc47aa9bc1.png" />
+
+31 Custom BottomNavigationBar : [Preview](https://youtu.be/Wo1P5nUwRGs) / [Code](https://github.com/doyle-flutter/flutterHowTo/blob/main/31CustomBottomNavigationBar/main.dart)
+
 <br />
+
 
 ## Only WEB
 
