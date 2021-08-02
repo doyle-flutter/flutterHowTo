@@ -25,7 +25,7 @@ W3 HowTo 의 내용과 비슷하게 구성하려고 합니다 🤣
 
 <img width="50%" src="https://user-images.githubusercontent.com/56661529/123742391-86c3f900-d8e6-11eb-89e0-060cdaf490ae.png" />
 
-04 DropDown : [Preview](https://youtu.be/KfQExzHZXXc) / Code...
+04 DropDown : [Preview](https://youtu.be/KfQExzHZXXc) / [Code](https://gist.github.com/doyle-flutter/a3a38108a620f91a6c68d14d2d0da91d)
 
 <img width="50%" src="https://user-images.githubusercontent.com/56661529/123775163-15497200-d909-11eb-8644-8148fe4df778.png" />
 
